@@ -77,8 +77,8 @@
                 <artifactId>tomcat7-maven-plugin</artifactId>
                 <version>2.2</version>
                 <configuration>
-                    <!--<url>http://localhost:8080/manager/text</url>-->
-                    <url>https://git.heroku.com/bestmuzonproject.git</url>
+                    <url>http://localhost:8080/</url>
+                    <!--<url>https://git.heroku.com/bestmuzonproject.git</url>-->
                     <server>TomcatServer</server>
                     <path>/</path>
                 </configuration>

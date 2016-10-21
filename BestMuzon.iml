@@ -20,12 +20,12 @@
           <file>file://$MODULE_DIR$/web/WEB-INF/dispatcher-servlet.xml</file>
         </fileset>
         <fileset id="fileset" name="Spring Application Context" removed="false">
-          <file>file://$MODULE_DIR$/web/WEB-INF/applicationContext.xml</file>
-          <file>file://$MODULE_DIR$/web/WEB-INF/dispatcher-servlet.xml</file>
-          <file>jar://$MAVEN_REPOSITORY$/com/github/jsimone/webapp-runner/8.5.5.0/webapp-runner-8.5.5.0.jar!/org/jboss/netty/container/spring/beans.xml</file>
-          <file>file://$MAVEN_REPOSITORY$/com/github/jsimone/webapp-runner/8.5.5.0/webapp-runner-8.5.5.0.jar</file>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml</file>
           <file>jar://$MAVEN_REPOSITORY$/io/netty/netty/3.5.5.Final/netty-3.5.5.Final.jar!/org/jboss/netty/container/spring/beans.xml</file>
           <file>file://$MAVEN_REPOSITORY$/io/netty/netty/3.5.5.Final/netty-3.5.5.Final.jar</file>
+          <file>jar://$MAVEN_REPOSITORY$/com/github/jsimone/webapp-runner/8.5.5.0/webapp-runner-8.5.5.0.jar!/org/jboss/netty/container/spring/beans.xml</file>
+          <file>file://$MAVEN_REPOSITORY$/com/github/jsimone/webapp-runner/8.5.5.0/webapp-runner-8.5.5.0.jar</file>
         </fileset>
       </configuration>
     </facet>
